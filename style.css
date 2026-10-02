@@ -39,6 +39,10 @@ body {
   height: 29px;
   background-color: red;
   padding: 0 12px;
+  border: 1px solid #183c32;
+  border-radius: 6px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.25);
+  box-sizing: border-box;
 }
 .screen .NavigationBar .NavigationBarOpeningBoutton img {
   width: 36px;
