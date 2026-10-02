@@ -17,4 +17,5 @@ body {
   width: 34%;
   height: 100%;
   object-fit: contain;
+  object-position: center;
 }
