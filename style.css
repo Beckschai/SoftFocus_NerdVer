@@ -30,7 +30,7 @@ body {
   background-color: grey;
 }
 
-.screen .NavigationBar .NavigationBarBoutton{
+.screen .NavigationBar .NavigationBarOpeningBoutton{
   position: absolute;
   bottom: 0;
   left: 0;
