@@ -28,16 +28,15 @@ body {
   height: 29px;
   background-color: grey;
 }
-
 .screen .NavigationBar .NavigationBarOpeningBoutton{
+  display: flex;
+  align-items: center;
+  gap: 8px;
   position: absolute;
   bottom: 0;
   left: 0;
   width: 10%;
   height: 29px;
   background-color: red;
-}
-.screen .NavigationBar .NavigationBarOpeningBoutton{
-  display: flex;
-  flex-direction: row;
+  padding: 0 12px;
 }
