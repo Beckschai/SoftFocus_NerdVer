@@ -6,6 +6,13 @@ body {
   height: 100%;
   overflow: hidden;
 }
+@font-face {
+  font-family: "Minecraft";
+  src: url("./fonts/Minecraft.ttf") format("Minecraft");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
 .screen {
   position: relative;
   width: 100%;
@@ -52,6 +59,8 @@ body {
 .screen .NavigationBar .NavigationBarOpeningBoutton p {
   margin: 0;
   color: black;
+  font-size: 14px;
+  font-family: "MaPolice", sans-serif;
   font-size: 14px;
   white-space: nowrap;
 }
