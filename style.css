@@ -39,6 +39,7 @@ body {
   background-color: red;
 }
 .NavigationBarOpeningBouttonElements{
-display: flex;
+  display: flex;
+  flex-direction: rows;
 
 }
