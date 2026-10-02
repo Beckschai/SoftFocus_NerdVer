@@ -14,7 +14,7 @@ body {
 /*IMAGE BACKGROUND*/
 .screen img{
   display: block;
-  width: 100%;
+  width: 34%;
   height: 100%;
   object-fit: contain;
 }
